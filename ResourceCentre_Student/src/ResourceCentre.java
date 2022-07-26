@@ -94,7 +94,7 @@ public class ResourceCentre {
 
 		}
 
-	}
+	} //H
 
 	public static void menu() {
 		ResourceCentre.setHeader("RESOURCE CENTRE APP");
